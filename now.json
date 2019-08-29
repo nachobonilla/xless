@@ -2,7 +2,7 @@
     "version": 2,
     "name": "xless",
     "env": {
-    "SLACK_INCOMING_WEBHOOK": "tregrvergrge3rgegqgrgr"
+    "SLACK_INCOMING_WEBHOOK": "https://hooks.slack.com/services/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"
     },
     "builds": [
         { "src": "index.js", "use": "@now/node-server" },
